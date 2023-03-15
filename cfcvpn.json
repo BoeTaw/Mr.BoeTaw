@@ -1,0 +1,32 @@
+{
+//The version is for updates. If there is an update, the number must be changed to be greater than before.
+"Version":"1.1",
+//saver update
+"Url":"https://github.com/BoeTaw/Mr.BoeTaw/blob/main/CFCVPN.zip?raw=true" ,
+"Changelog":"
+SG 7 Day 6 File
+````````````````````````
+19.2.23 ထိအသံုးျပဳႏိုင္​သည္​
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+အ​ေကာင္​့​ေလွ်ာက္​သံုးရန္​အတြက္​
+TH 5 File 
+တခါ​ေလွ်ာက္​ ၅ ရက္​စာ 
+•••••••••••••••••••••••••••••••••••••
+💞💞 Boe Taw 💞💞
+
+ 
+",
+ 
+ 
+ 
+ 
+ 
+ 
+//Myanmar
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
